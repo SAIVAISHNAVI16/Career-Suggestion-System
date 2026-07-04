@@ -19,9 +19,7 @@ A simple Python project that suggests suitable career paths based on a user's in
 
 ## How to Run
 
-1. Open the project in VS Code or any Python IDE.
-2. Open the Python file (`career_suggestion.py`).
-3. Run the program.
-4. Enter the required inputs when prompted.
-5. View the suggested career path based on your answers.
-
+    Open the project in Python or VS Code.
+    Run the Python file.
+    Enter the required inputs.
+    View the career suggestion.
