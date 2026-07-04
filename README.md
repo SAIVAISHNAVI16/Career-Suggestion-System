@@ -1,2 +1,27 @@
 # Career-Suggestion-System
-A Python project that suggests suitable career paths based on user input. Helps users explore career options based on their interests and skills.
+
+
+## Description
+
+A simple Python project that suggests suitable career paths based on a user's interests, skills, and preferences. The program asks a few questions and provides career recommendations using basic rule-based decision making. It is designed as a beginner-friendly project to demonstrate Python fundamentals such as input, conditional statements, and decision making.
+
+## Features
+
+* Takes user input through the console.
+* Asks questions about interests and skills.
+* Suggests suitable career paths.
+* Uses simple rule-based decision making.
+* Easy to understand and beginner-friendly.
+
+## Technologies Used
+
+* Python
+
+## How to Run
+
+1. Open the project in VS Code or any Python IDE.
+2. Open the Python file (`career_suggestion.py`).
+3. Run the program.
+4. Enter the required inputs when prompted.
+5. View the suggested career path based on your answers.
+
